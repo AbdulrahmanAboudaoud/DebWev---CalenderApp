@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "../../assets/cute-calendar-sticker-free-png-4225752480.png";
 import "./NavBarStyle.css";
 import notification from "../../assets/notification.png";
 
